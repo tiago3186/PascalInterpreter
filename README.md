@@ -12,5 +12,5 @@ O projeto "Interpretador de Pascal com Python" tem como objetivo construir um in
 Além dessas três partes, uma funcionalidade adicional do interpretador é a geração de um arquivo DOT (Graphviz) que representa a árvore de análise sintática.
 
 ### Considerações
-Esse é um projeto em constante construção e faz parte de uma série de tutoriais, onde parei apenas na parte 10 isso no ano passado e ao final de 19 partes irá resultar num Interpretador de Pascal mais complexo e elaborado se eu chegar lá. Atualmente a melhor versão minha é essa. Se você tiver interesse em tentar também, pode começar aqui:  
+Esse é um projeto em constante construção e faz parte de uma série de tutoriais, onde parei apenas na parte 10 (isso no ano passado, subo esse repositório agora, mas ainda não retomei) e ao final de 19 partes irá resultar num Interpretador de Pascal mais complexo e elaborado se eu chegar lá. Atualmente a melhor versão minha é essa. Se você tiver interesse em tentar também, pode começar aqui com os tutoriais "Build a simple interpreter".  
 https://ruslanspivak.com/lsbasi-part1/
